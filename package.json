@@ -28,5 +28,6 @@
         "path": "./themes/darvy-lighter-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "codigo-darvy"
 }
