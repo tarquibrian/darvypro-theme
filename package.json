@@ -18,14 +18,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darvy Pro Darker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/darvy-darker-color-theme.json"
-      },
-      {
         "label": "Darvy Pro Lighter",
         "uiTheme": "vs",
         "path": "./themes/darvy-lighter-color-theme.json"
+      },
+      {
+        "label": "Darvy Pro Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darvy-darker-color-theme.json"
       }
     ]
   },
