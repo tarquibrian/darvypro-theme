@@ -3,9 +3,9 @@
   "displayName": "DarvyPro",
   "description": "DarvyPro",
   "version": "0.0.1",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "engines": {
-    "vscode": "^1.73.0"
+    "vscode": "^1.51.0"
   },
   "categories": [
     "Themes"
