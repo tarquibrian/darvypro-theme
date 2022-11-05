@@ -1,0 +1,32 @@
+{
+  "name": "darvypro",
+  "displayName": "DarvyPro",
+  "description": "DarvyPro",
+  "version": "0.0.1",
+  "icon": "./icon.png",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Brian Tarqui Rojas",
+    "email": "tarquibrian@gmail.com",
+    "url": "https://www.linkedin.com/in/brian-tarqui-a27127180/"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darvy Pro Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darvy-darker-color-theme.json"
+      },
+      {
+        "label": "Darvy Pro Lighter",
+        "uiTheme": "vs",
+        "path": "./themes/darvy-lighter-color-theme.json"
+      }
+    ]
+  }
+}
