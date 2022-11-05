@@ -1,16 +1,14 @@
-# darvypro README
 
-## Working with Markdown
+# Darvy Pro Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A brief description of what this project does and who it's for
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://briantarqui.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-tarqui-a27127180/)
+## Authors
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [@tarquibrian](https://github.com/tarquibrian)
 
-**Enjoy!**
+
