@@ -2049,7 +2049,7 @@
     "sideBarSectionHeader.background": "#090B10",
     "sideBarSectionHeader.border": "#00000060",
     "input.background": "#1A1C25",
-    "input.foreground": "#EEFFFF",
+    "input.foreground": "#eeffff",
     "input.placeholderForeground": "#8F93A260",
     "input.border": "#FFFFFF10",
     "inputValidation.errorBorder": "#FF537050",
